@@ -1,5 +1,5 @@
 ## Olá, eu me chamo Lucas.
-Atualmente estou cursando o 3° período em Análise e Desenvolvimento de Sistemas na Universidade Unicesumar.
+Atualmente estou cursando o 5° período em Análise e Desenvolvimento de Sistemas na Universidade Unicesumar.
 
 ![LucasdsBitencourt GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasdsBitencourt&show_icons=true&theme=midnight-purple&count_private=true&hide=prs&hide_title=true&border_radius=10&width=400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasdsBitencourt&layout=compact&show_icons=true&theme=midnight-purple&border_radius=10&width=400)
