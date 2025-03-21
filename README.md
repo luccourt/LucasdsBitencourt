@@ -5,7 +5,7 @@ Atualmente estou cursando o 3° período em Análise e Desenvolvimento de Sistem
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasdsBitencourt&layout=compact&show_icons=true&theme=midnight-purple&border_radius=10&width=400)
 
 ##
-Tecnologias que estou estudando:
+Tecnologias estudadas:
 <div style="display: inline_block"><br>
   <img align="center" alt="LucasdsBitencourt-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="LucasdsBitencourt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
