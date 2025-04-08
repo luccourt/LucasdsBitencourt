@@ -11,4 +11,3 @@ Atualmente estou cursando o 5° período em Análise e Desenvolvimento de Sistem
   <img align="center" alt="luccourt-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="luccourt-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 </div>
-##
