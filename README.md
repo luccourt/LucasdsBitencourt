@@ -1,13 +1,11 @@
 ## Olá, eu me chamo Lucas.
 Atualmente estou cursando o 5° período em Análise e Desenvolvimento de Sistemas na Universidade Unicesumar.
 
-![luccourt GitHub stats](https://github-readme-stats.vercel.app/api?username=luccourt&show_icons=true&theme=midnight-purple&count_private=true&hide=prs&hide_title=true&border_radius=10&width=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccourt&layout=compact&show_icons=true&theme=midnight-purple&border_radius=10&width=400)
-
 ##
 Tecnologias estudadas:
 <div style="display: inline_block"><br>
-  <img align="center" alt="luccourt-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="luccourt-Python" height="40" width="50" ![image](https://github.com/user-attachments/assets/64144484-5133-41fe-a672-9e275c8ed184)
+>
   <img align="center" alt="luccourt-Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
   <img align="center" alt="luccourt-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="luccourt-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" >
